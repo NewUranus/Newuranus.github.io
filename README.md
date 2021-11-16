@@ -5,4 +5,4 @@
 
 [Cat-Catch](https://github.com/NewUranus/Cat-Catch) USB analyser built on Qt.
 
-### About
+[Funny-Port](https://github.com/NewUranus/Funny-Port) Serial port debug utility.
