@@ -11,3 +11,4 @@
 
 ### Others
 [Rime-Backup](https://github.com/NewUranus/Rime-Backup) Backup for personal rime configure.
+[UpdateHost](https://github.com/NewUranus/UpdateHost) Update hosts file for windows.
